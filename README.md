@@ -10,10 +10,15 @@ Kelompok Bjarne Stroustrup
 5. Kevin Wijaya - 201401144
 
 Mata Kuliah : Komputer Grafis dan Visualisasi
+
 KOM : A
+
 Dosen : Jos Timanta Tarigan, S.Kom., M.Sc.
+
 Tahun Ajaran : Genap 2021/2022
+
 Sifat : Take Home Test, Kelompok
+
 
 ## Links
 Youtube : TBD
