@@ -19,6 +19,5 @@ Sifat : Take Home Test, Kelompok
 Youtube : TBD
 
 ## Screenshots
-* Tugas 1.1
 
 ![alt_text](https://github.com/briannzw/Project-UTS-KGV-Bjarne-Stroustrup/blob/master/Screenshots/Screenshot_0.png "Screenshot Project UTS")
