@@ -18,6 +18,12 @@ Sifat : Take Home Test, Kelompok
 ## Links
 Youtube : TBD
 
+## Commands
+
+- Press C to change Color
+- Press Up Arrow key to enlarge the size by 0.1
+- Press Down Arrow key to reduce the size by 0.1
+
 ## Screenshots
 
 ![alt_text](https://github.com/briannzw/Project-UTS-KGV-Bjarne-Stroustrup/blob/master/Screenshots/Screenshot_0.png "Screenshot Project UTS")
