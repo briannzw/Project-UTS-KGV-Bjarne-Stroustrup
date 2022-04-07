@@ -1,8 +1,8 @@
 # Project-UTS-KGV-Bjarne-Stroustrup
 
 ## General Info
-Repository Ujian Tengah Semester
-Kelompok Bjarne Stroustrup
+Repository Ujian Tengah Semester  
+Kelompok Bjarne Stroustrup  
 Anggota : 
 1. Ellena Amanda - 201401004
 2. Sitti Safiatun Naja Koto - 201401015
