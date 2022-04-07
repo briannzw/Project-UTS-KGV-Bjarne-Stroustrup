@@ -3,6 +3,7 @@
 ## General Info
 Repository Ujian Tengah Semester
 Kelompok Bjarne Stroustrup
+Anggota : 
 1. Ellena Amanda - 201401004
 2. Sitti Safiatun Naja Koto - 201401015
 3. Sally Livia Kosasih - 201401025
