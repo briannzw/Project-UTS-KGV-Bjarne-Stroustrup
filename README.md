@@ -17,7 +17,7 @@ Tahun Ajaran : Genap 2021/2022
 Sifat : Take Home Test, Kelompok
 
 ## Links
-Youtube : TBD
+Youtube : https://youtu.be/2w-Ssf5wS88
 
 ## Commands
 
